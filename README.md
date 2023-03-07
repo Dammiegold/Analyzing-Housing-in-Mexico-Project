@@ -14,5 +14,11 @@ The main objective is to ascertain whether location or property size has a great
 
 ## Reearch Questions
 -Which state's real estate market is the most expensive?
+
 -Does the size of a house affect its price?
 
+## Data Source
+Data was extracted from Kaggle
+
+## Analysis Tool
+The data will be transformed, cleaned, organized, concatenated, and analyzed using Python, an open-source programming language.
